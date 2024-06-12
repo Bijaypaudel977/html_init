@@ -15,3 +15,14 @@
     background-color: red;
 
  }
+ .main_container2{
+    height: 300px;
+    width: 450px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
